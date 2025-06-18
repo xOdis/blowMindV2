@@ -1,0 +1,4 @@
+// frontend/package.json
+{
+  "proxy": "http://localhost:5000"
+}
